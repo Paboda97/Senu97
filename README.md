@@ -1,4 +1,4 @@
-![logo](https://github.com/Senu97/Senu/blob/main/1.png)
+![logo](https://github.com/Senu97/Senu97/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm Paboda Marasinghe</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka.</h3>
 
